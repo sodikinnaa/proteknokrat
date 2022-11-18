@@ -17,8 +17,10 @@ fun Tahapan_Intalasi(){
 }
 
 fun pasangkompiler(){
-    lihat saja di video
-}
+   1. Kompiler Kotline
+    2. Kompiler java{
+        https://www50.zippyshare.com/v/ip6TnIsZ/file.html
+    }
 
 fun main(){
     print("Siapkan "+ Kebutuhan())
